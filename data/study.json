@@ -1,0 +1,1635 @@
+{
+  "measurements": [
+    {
+      "sample": "s-0",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 66.9392,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-0",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.007,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-1",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 59.0913,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-1",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.6582,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-2",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 52.2876,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-2",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2635,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-3",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.0449,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-3",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1724,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-4",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 58.0549,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-4",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9942,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-5",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 41.7853,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-5",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.6686,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-6",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 31.8058,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-6",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0974,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-7",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 39.6065,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-7",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8208,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-8",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 42.4599,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-8",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7366,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-9",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 43.124,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-9",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2899,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-10",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 36.7138,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-10",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9375,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-11",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 49.4939,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-11",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0247,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-12",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 47.1781,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-12",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9258,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-13",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 60.197,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-13",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9027,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-14",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 58.9807,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-14",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9307,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-15",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 44.0947,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-15",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1375,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-16",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 49.8066,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-16",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8329,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-17",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 58.2146,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-17",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.6983,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-18",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 39.9947,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-18",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.4418,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-19",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 42.4411,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-19",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9144,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-20",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 40.8841,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-20",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1086,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-21",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.2259,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-21",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9333,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-22",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 30,
+      "qualifier": "below"
+    },
+    {
+      "sample": "s-22",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8155,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-23",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 38.5935,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-23",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.098,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-24",
+      "batch": "b1",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 41.0459,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-24",
+      "batch": "b1",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8009,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-25",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 70.1729,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-25",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8796,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-26",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 55.5437,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-26",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1109,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-27",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 44.5885,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-27",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8403,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-28",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 43.114,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-28",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8573,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-29",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 37.5194,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-29",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9704,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-30",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 51.4664,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-30",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0155,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-31",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 47.6459,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-31",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0866,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-32",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 65.8836,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-32",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0101,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-33",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 54.8625,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-33",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0922,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-34",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 67.111,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-34",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9186,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-35",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 55.278,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-35",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1772,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-36",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 55.4009,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-36",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3487,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-37",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 50.1339,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-37",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.4407,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-38",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 61.5811,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-38",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2426,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-39",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 50.206,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-39",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8912,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-40",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 40.0542,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-40",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.4231,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-41",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 63.975,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-41",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1093,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-42",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 50.3111,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-42",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9694,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-43",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 50.7297,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-43",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7459,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-44",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 45.9539,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-44",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0522,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-45",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 42.3987,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-45",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3207,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-46",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 65.7676,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-46",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9828,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-47",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 54.3592,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-47",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9884,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-48",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 61.1541,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-48",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8409,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-49",
+      "batch": "b2",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 54.0304,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-49",
+      "batch": "b2",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9251,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-50",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 60.5164,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-50",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0704,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-51",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 50.0202,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-51",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3675,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-52",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 47.3035,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-52",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9673,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-53",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 49.6952,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-53",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1972,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-54",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.8024,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-54",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2756,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-55",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 51.5656,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-55",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7669,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-56",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 33.6491,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-56",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9845,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-57",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 53.242,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-57",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1259,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-58",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 65.6765,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-58",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0558,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-59",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 59.5342,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-59",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0959,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-60",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 43.1952,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-60",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.084,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-61",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 49.1603,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-61",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3008,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-62",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 50.2178,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-62",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8585,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-63",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 66.8031,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-63",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2272,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-64",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 42.3748,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-64",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1773,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-65",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.5667,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-65",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1628,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-66",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 52.7609,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-66",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9592,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-67",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 38.7341,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-67",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0275,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-68",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 70.2114,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-68",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0442,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-69",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 70.3729,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-69",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9713,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-70",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 38.9426,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-70",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9912,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-71",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 42.7729,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-71",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.6299,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-72",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 59.5747,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-72",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.5894,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-73",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 53.388,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-73",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8489,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-74",
+      "batch": "b3",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 45.9006,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-74",
+      "batch": "b3",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7328,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-75",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 63.5147,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-75",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2052,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-76",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 70.1157,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-76",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2421,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-77",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 38.2855,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-77",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7316,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-78",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.7306,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-78",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3582,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-79",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 47.5694,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-79",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.6532,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-80",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.2533,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-80",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8533,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-81",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 38.0817,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-81",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2166,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-82",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 54.659,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-82",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2108,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-83",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 48.0703,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-83",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7247,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-84",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 48.2142,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-84",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.2476,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-85",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 64.1472,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-85",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0313,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-86",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 32.8866,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-86",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.8568,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-87",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 59.762,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-87",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9147,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-88",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 37.5241,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-88",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0279,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-89",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 33.1849,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-89",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0276,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-90",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 51.1167,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-90",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0473,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-91",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 55.0208,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-91",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.1571,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-92",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 34.394,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-92",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0098,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-93",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 48.1309,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-93",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.0298,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-94",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 39.2704,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-94",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.5884,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-95",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 43.1605,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-95",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.9415,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-96",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 47.5505,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-96",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3373,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-97",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 46.6885,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-97",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.7248,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-98",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 41.3801,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-98",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 1.896,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-99",
+      "batch": "b4",
+      "attribute": "strength",
+      "unit": "N",
+      "value": 73.5655,
+      "qualifier": "exact"
+    },
+    {
+      "sample": "s-99",
+      "batch": "b4",
+      "attribute": "thickness",
+      "unit": "mm",
+      "value": 2.3255,
+      "qualifier": "exact"
+    }
+  ],
+  "specifications": {
+    "strength": {
+      "unit": "N",
+      "lower": 30,
+      "upper": 90
+    },
+    "thickness": {
+      "unit": "mm",
+      "lower": 1.6,
+      "upper": 2.4
+    }
+  },
+  "batches": [
+    {
+      "id": "b1",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "b2",
+      "date": "2026-10-02"
+    },
+    {
+      "id": "b3",
+      "date": "2026-10-03"
+    },
+    {
+      "id": "b4",
+      "date": "2026-10-04"
+    }
+  ],
+  "project_title": "含检出边界资料的总体规格覆盖与容忍声明"
+}
