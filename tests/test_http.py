@@ -54,6 +54,35 @@ class HttpContractTests(unittest.TestCase):
         self.assertEqual(caught.exception.code, 400)
         caught.exception.close()
 
+    def test_tolerance_action_live(self):
+        status, result = self.request('/api/action', {
+            'operation': 'tolerance', 'mode': 'spec', 'attributes': ['strength', 'thickness'],
+            'coverage': 0.95, 'confidence': 0.95})
+        self.assertEqual(status, 200)
+        self.assertEqual(result['operation'], 'tolerance')
+        self.assertEqual(len(result['items']), 2)
+        self.assertIn('joint', result)
+        self.assertIn('simultaneous', result)
+        self.assertTrue(result['caveats'])
+        status, claim = self.request('/api/action', {
+            'operation': 'tolerance', 'mode': 'claim', 'attributes': ['strength'],
+            'coverage': 0.95, 'confidence': 0.95, 'side': 'upper'})
+        self.assertEqual(status, 200)
+        self.assertIn('bound', claim['items'][0]['claim'])
+
+    def test_tolerance_invalid_request_is_client_error(self):
+        for payload in (
+                {'operation': 'tolerance', 'mode': 'claim', 'attributes': ['strength'],
+                 'coverage': 1.5, 'confidence': 0.95},
+                {'operation': 'tolerance', 'mode': 'claim', 'attributes': ['strength'],
+                 'confidence': 0.95},
+                {'operation': 'tolerance', 'mode': 'spec', 'attributes': [],
+                 'confidence': 0.95}):
+            with self.assertRaises(HTTPError) as caught:
+                self.request('/api/action', payload)
+            self.assertEqual(caught.exception.code, 400)
+            caught.exception.close()
+
     def test_unknown_path_not_treated_as_index(self):
         with self.assertRaises(HTTPError) as caught:
             self.request('/../../etc/passwd')

@@ -56,6 +56,24 @@ class BrowserContractTests(unittest.TestCase):
                 page.reload(wait_until='networkidle')
                 self.assertEqual(page.locator('#notes li').count(), 1)
                 self.assertIn('复查当前业务资料与结果', page.locator('#notes li').inner_text())
+                tolerance_request = {'operation': 'tolerance', 'mode': 'spec',
+                                     'attributes': ['strength', 'thickness'],
+                                     'coverage': 0.95, 'confidence': 0.95}
+                page.select_option('#tolerance-attributes', ['strength', 'thickness'])
+                page.select_option('#tolerance-mode', 'spec')
+                page.fill('#tolerance-coverage', '0.95')
+                page.fill('#tolerance-confidence', '0.95')
+                page.locator('#tolerance-form button').click()
+                page.wait_for_function(
+                    "document.querySelector('#tolerance-result').textContent !== '选择属性与目标后评估'")
+                request = Request(self.base + '/api/action', json.dumps(tolerance_request).encode(),
+                                  {'Content-Type': 'application/json'})
+                with urlopen(request, timeout=5) as response:
+                    expected_tolerance = json.load(response)
+                shown = json.loads(page.locator('#tolerance-result').inner_text())
+                self.assertEqual(shown, expected_tolerance)
+                self.assertIn('joint', shown)
+                self.assertIn('simultaneous', shown)
                 self.assertEqual(errors, [])
             finally:
                 browser.close()

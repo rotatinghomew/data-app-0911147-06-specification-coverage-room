@@ -1,9 +1,11 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>含检出边界资料的总体规格覆盖与容忍声明</title><link rel="stylesheet" href="/style.css"><script defer src="/app.js"></script></head>
-<body><header><h1>含检出边界资料的总体规格覆盖与容忍声明</h1><p>逐属性描述统计、检测限展示及既有规格逐条比对</p></header><main>
+<body><header><h1>含检出边界资料的总体规格覆盖与容忍声明</h1><p>逐属性描述统计、检测限展示、既有规格比对与总体覆盖容忍声明</p></header><main>
 <section><h2>当前资料概况</h2><pre id="summary">载入中</pre></section>
 <section><h2>业务记录</h2><label>记录集合<select id="source"></select></label><span id="record-count"></span><div id="records"></div></section>
+<section><h2>总体覆盖容忍声明</h2><form id="tolerance-form"></form><pre id="tolerance-result">选择属性与目标后评估</pre>
+<aside>面向总体覆盖比例：逐项、多项同时（Bonferroni）与多维联合（同一样品计数）分别评估；检测限记录不作为实际读数；样本或证据不足时明说无法支持，不缩窄区间凑数。</aside></section>
 <div class="columns"><section><h2>查看精确观测描述</h2><form id="action-form"></form><pre id="result">选择记录后操作</pre>
 <aside>当前页面保留原始描述与业务记录，具体统计含义见分析约定。</aside></section>
 <section><h2>工作批注</h2><form id="note-form"><textarea id="note" required maxlength="2000" aria-label="批注内容"></textarea><button>保存批注</button></form><ul id="notes"></ul></section></div>
